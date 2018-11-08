@@ -4,7 +4,7 @@
 	This is simple basic User management project built on laravel framework using vue component, the following
 	are tools and dependencies use in this project.
 
-	1. [bootstrap]
+	1. [NPM]
 	2. [vue]
 	3. [fortawesome]
 	4. [moment]
@@ -12,6 +12,7 @@
 	6. [vform]
 	7. [vue-progressbar]
 	8. [vue-router]
+	9. [bootstrap]
 
 
 
